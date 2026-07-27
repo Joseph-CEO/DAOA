@@ -1,0 +1,24 @@
+{
+  "short_name": "DA Omwenga",
+  "name": "DA Omwenga & Co. Advocates",
+  "description": "Progressive Web App for DA Omwenga & Co. Advocates, a premier law firm in Kenya.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait"
+}

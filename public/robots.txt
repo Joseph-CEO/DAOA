@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daomwengaadvocates.co.ke/sitemap.xml
