@@ -1,0 +1,6 @@
+{
+  "name": "DA Omwenga Advocates",
+  "description": "Progressive Web App for DA Omwenga & Co. Advocates, a premier professional law firm in Kenya delivering trust, integrity, and exceptional legal solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
